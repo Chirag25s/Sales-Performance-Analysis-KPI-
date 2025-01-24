@@ -4,6 +4,8 @@ Thank you for taking the time to explore my work! Your valuable time means a lot
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chirag2501/) or visit my [Portfolio](https://mavenanalytics.io/profile/chirag25s). You can also reach out to me via email at [c.sharma251201@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=DmwnWtVcJrrhwBNnwDXdxfjPvCRRxhhcpQrRRNmQGTvwgrMJmmcpPfBFvThWBQJbrJrXkXPLhZjb) if you're looking to hire a **Data Analyst** who is passionate about turning data into actionable insights.  
 
+![Sales Performance Analysis (KPI)](https://github.com/Chirag25s/Sales-Performance-Analysis-KPI-/blob/main/Dashboard%20-%20Sales%20Performance%20Analysis%20(KPI).jpg)
+
 ---
 
 ## Project Workflow
